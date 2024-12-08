@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    height: 100vh !important;
+    background: #E3F2FD !important;
+}
+.main
+{
+    color: #B8C6DC;
+    background-color: #293447 !important;
+}
+.c1
+{
+    width: 500px !important;
+    height: 50vh !important;
+}
